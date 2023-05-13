@@ -1,0 +1,1 @@
+# AI-Drowsiness_Detection is a tool designed for detecting drowsy facial expressions. These tools are mainly used while driving, when the drowsy facial expressions of the driver are detected and the driver is alerted for the same. We have built the model using VGG 16, which is a 16 layer Convolutional Neural Network (CNN) architecture.
